@@ -1,0 +1,82 @@
+.team-metrics {
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.team-metrics h1 {
+  margin-bottom: 0.5rem;
+  color: #333;
+  font-size: 2rem;
+}
+
+.subtitle {
+  color: #999;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.metrics-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.metrics-section h2 {
+  margin-bottom: 1.5rem;
+  color: #333;
+  font-size: 1.3rem;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 0.75rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.summary-table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.summary-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.summary-table table tbody tr {
+  border-bottom: 1px solid #eee;
+}
+
+.summary-table table tr td {
+  padding: 1rem;
+}
+
+.summary-table table tr td:first-child {
+  font-weight: 500;
+  color: #666;
+  width: 40%;
+}
+
+.summary-table table tr td.value {
+  color: #667eea;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.summary-table table tr:hover {
+  background-color: #f9f9f9;
+}
