@@ -1,0 +1,50 @@
+.metrics-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #667eea;
+  transition: all 0.3s ease;
+}
+
+.metrics-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+  margin-bottom: 1rem;
+}
+
+.card-header h3 {
+  color: #333;
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.card-value {
+  font-size: 2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.unit {
+  font-size: 0.8rem;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.card-description {
+  color: #999;
+  font-size: 0.8rem;
+  margin: 0;
+}
