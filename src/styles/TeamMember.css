@@ -1,0 +1,139 @@
+.member-detail {
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #667eea;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+  transition: gap 0.3s ease;
+}
+
+.back-link:hover {
+  gap: 0.75rem;
+}
+
+.member-header-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.member-avatar {
+  font-size: 4rem;
+  flex-shrink: 0;
+}
+
+.member-info-section h1 {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+}
+
+.member-info-section .position {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  margin-bottom: 0.5rem;
+}
+
+.member-info-section .email {
+  opacity: 0.8;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.tenure-info {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.tenure-info span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.metrics-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.metrics-section h2 {
+  margin-bottom: 1.5rem;
+  color: #333;
+  font-size: 1.3rem;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 0.75rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.detail-table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.detail-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.detail-table table tbody tr {
+  border-bottom: 1px solid #eee;
+}
+
+.detail-table table tr td {
+  padding: 1rem;
+}
+
+.detail-table table tr td:first-child {
+  font-weight: 500;
+  color: #667eea;
+  width: 40%;
+  background: #f9f9f9;
+}
+
+.detail-table table tr:hover {
+  background-color: #f5f5f5;
+}
+
+@media (max-width: 768px) {
+  .member-header-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .tenure-info {
+    flex-direction: column;
+  }
+
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
