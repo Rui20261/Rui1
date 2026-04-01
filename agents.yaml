@@ -1,0 +1,551 @@
+agents:
+  - name: Aleksandra Safonova
+    role: Agent
+    team: guedelha
+    emp_id: "2038016"
+    user_id: "987734"
+    username: safonova
+    cognizant_email: aleksandra.safonova@cognizant.com
+    google_email: safonova@google.com
+    days: 45
+    start_date: 2021-08-02
+    end_date: 2021-08-09
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2021-10-07
+    active: "Yes"
+    team_lead: 29
+    level: SPE
+    promotion_date: 2023-08-31
+    hire_date: 2021-08-02
+
+  - name: Anastasiia Gorbatenkova
+    role: Agent
+    team: rvigo
+    emp_id: "2030395"
+    user_id: "980748"
+    username: gorbatenkova
+    cognizant_email: anastasia.gorbatenkova@cognizant.com
+    google_email: gorbatenkova@google.com
+    days: 44
+    start_date: 2021-07-19
+    end_date: 2021-07-26
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2026-02-05
+    active: "Yes"
+    level: SPE
+    promotion_date: 2023-08-17
+    hire_date: 2025-12-15
+
+  - name: Anastasiia Katasonova
+    role: Agent
+    team: rvigo
+    emp_id: "2305928"
+    user_id: "1331597"
+    username: katasonova
+    cognizant_email: anastasiia.katasonova@cognizant.com
+    google_email: katasonova@google.com
+    days: 98
+    start_date: 2023-10-02
+    end_date: 2023-10-09
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-12-08
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-12-01
+    hire_date: 2023-10-02
+
+  - name: Anastasiia Sydorenko
+    role: Agent
+    team: guedelha
+    emp_id: "2070974"
+    user_id: "1019246"
+    username: asydorenko
+    cognizant_email: anastasiia.sydorenko@cognizant.com
+    google_email: asydorenko@google.com
+    days: 50
+    start_date: 2021-10-11
+    end_date: 2021-10-18
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2021-12-23
+    active: "Yes"
+    team_lead: 34
+    level: SPE
+    promotion_date: 2023-11-09
+    hire_date: 2021-10-11
+
+  - name: Andrii Khomynets
+    role: Agent
+    team: guedelha
+    emp_id: "2083616"
+    user_id: "1033328"
+    username: khomynets
+    cognizant_email: andrii.khomynets@cognizant.com
+    google_email: khomynets@google.com
+    days: 52
+    start_date: 2021-11-08
+    end_date: 2021-11-15
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR T2
+    contract_end: 2022-01-27
+    active: "Yes"
+    level: SPE
+    promotion_date: 2023-12-07
+    hire_date: 2021-11-15
+
+  - name: Anzhalika Nikolaevna Yurchanka
+    role: Agent
+    team: guedelha
+    emp_id: "2057135"
+    user_id: "1005803"
+    username: anzhalika
+    cognizant_email: angelica.yurchanka@cognizant.com
+    google_email: anzhalika@google.com
+    days: 48
+    start_date: 2021-09-13
+    end_date: 2021-09-20
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2021-11-26
+    active: "Yes"
+    team_lead: 32
+    level: SPE
+    promotion_date: 2023-10-12
+    hire_date: 2021-09-13
+
+  - name: Daniel Fernando Quileba
+    role: Agent
+    team: rvigo
+    emp_id: "2396709"
+    user_id: "1529360"
+    username: quileba
+    cognizant_email: daniel.quileba@cognizant.com
+    google_email: quileba@google.com
+    days: 133
+    start_date: 2025-03-03
+    end_date: 2025-03-07
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2025-04-21
+    active: "Yes"
+    level: PE
+    promotion_date: 2026-05-02
+    hire_date: 2025-03-03
+
+  - name: Daria Ivanova
+    role: Agent
+    team: rvigo
+    emp_id: "2238129"
+    user_id: "1212448"
+    username: ivanovad
+    cognizant_email: daria.ivanova@cognizant.com
+    google_email: ivanovad@google.com
+    days: 74
+    start_date: 2022-10-10
+    end_date: 2022-10-17
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2022-12-27
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-12-09
+    hire_date: 2022-10-10
+
+  - name: Dmytro Tsapun
+    role: Agent
+    team: guedelha
+    emp_id: "2283495"
+    user_id: "1281893"
+    username: tsapun
+    cognizant_email: dmytro.tsapun@cognizant.com
+    google_email: tsapun@google.com
+    days: 88
+    start_date: 2023-05-15
+    end_date: 2023-05-22
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-07-22
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-07-14
+    hire_date: 2023-05-15
+
+  - name: Dmytro Zernov
+    role: Agent
+    team: rvigo
+    emp_id: "2314503"
+    user_id: "1346409"
+    username: zernov
+    cognizant_email: dmytro.zernov@cognizant.com
+    google_email: zernov@google.com
+    days: 101
+    start_date: 2023-11-13
+    end_date: 2023-11-20
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2024-01-12
+    active: "Yes"
+    level: SPE
+    promotion_date: 2026-01-12
+    hire_date: 2023-11-13
+
+  - name: Emil Huseynzade
+    role: Agent
+    team: rvigo
+    emp_id: "2242458"
+    user_id: "1219642"
+    username: ehuseynzade
+    cognizant_email: emil.huseynzade@cognizant.com
+    google_email: ehuseynzade@google.com
+    days: 75
+    start_date: 2022-10-24
+    end_date: 2022-10-31
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-01-16
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-12-23
+    hire_date: 2025-02-03
+
+  - name: Evgeniya Aleksandrovna Kondratyeva
+    role: Agent
+    team: guedelha
+    emp_id: "2056411"
+    user_id: "1005856"
+    username: evgeniyaa
+    cognizant_email: evgeniya.kondratyeva@cognizant.com
+    google_email: evgeniyaa@google.com
+    days: 48
+    start_date: 2021-09-13
+    end_date: 2021-09-20
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR T2
+    contract_end: 2021-11-24
+    active: "Yes"
+    team_lead: 32
+    level: SPE
+    promotion_date: 2023-10-12
+    hire_date: 2021-09-13
+
+  - name: Ganna Zabrodina
+    role: Agent
+    team: rvigo
+    emp_id: "2414908"
+    user_id: "1198854"
+    username: zabrodina
+    cognizant_email: ganna.zabrodina@cognizant.com
+    google_email: zabrodina@google.com
+    days: 138
+    start_date: 2025-05-12
+    end_date: 2025-05-16
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2025-07-02
+    active: "Yes"
+    level: SPE
+    promotion_date: 2026-07-11
+    hire_date: 2025-05-12
+
+  - name: Illia Tatarinov
+    role: Agent
+    team: rvigo
+    emp_id: "2347255"
+    user_id: "1410683"
+    username: illiat
+    cognizant_email: illia.tatarinov2@cognizant.com
+    google_email: illiat@google.com
+    days: 133
+    start_date: 2025-03-03
+    end_date: 2025-03-07
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2025-04-25
+    active: "Yes"
+    level: PE
+    promotion_date: 2026-05-02
+    hire_date: 2025-03-03
+
+  - name: Iuliia Zvereva
+    role: Agent
+    team: rvigo
+    emp_id: "2123136"
+    user_id: "1069077"
+    username: iuliiaz
+    cognizant_email: iuliia.zvereva@cognizant.com
+    google_email: iuliiaz@google.com
+    days: 56
+    start_date: 2022-01-24
+    end_date: 2022-01-31
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR T2
+    contract_end: 2022-04-07
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-03-23
+    hire_date: 2026-01-20
+
+  - name: Karyna Ajalloueian
+    role: Agent
+    team: rvigo
+    emp_id: "2308793"
+    user_id: "1336551"
+    username: karynaa
+    cognizant_email: karyna.ajalloueian@cognizant.com
+    google_email: karynaa@google.com
+    days: 99
+    start_date: 2023-10-16
+    end_date: 2023-10-23
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-12-24
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-12-15
+    hire_date: 2023-10-16
+
+  - name: Kristina Barashkina
+    role: Agent
+    team: guedelha
+    emp_id: "2302330"
+    user_id: "1325932"
+    username: barashkina
+    cognizant_email: kristina.barashkina@cognizant.com
+    google_email: barashkina@google.com
+    days: 94
+    start_date: 2023-09-18
+    end_date: 2023-09-25
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-11-22
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-11-17
+    hire_date: 2023-10-16
+
+  - name: Lesia Bogoslov
+    role: Agent
+    team: rvigo
+    emp_id: "2306204"
+    user_id: "1331567"
+    username: lesiab
+    cognizant_email: lesia.bogoslov@cognizant.com
+    google_email: lesiab@google.com
+    days: 98
+    start_date: 2023-10-02
+    end_date: 2023-10-09
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-12-08
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-12-01
+    hire_date: 2023-10-02
+
+  - name: Loreta Stepane
+    role: Agent
+    team: guedelha
+    emp_id: "2179750"
+    user_id: "1110996"
+    username: stepane
+    cognizant_email: loreta.stepane@cognizant.com
+    google_email: stepane@google.com
+    days: 61
+    start_date: 2022-04-11
+    end_date: 2022-04-18
+    notice_date: 2026-04-17
+    status: Notice
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2026-01-23
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-06-10
+    hire_date: 2025-12-15
+
+  - name: Maryna Herbeda
+    role: Agent
+    team: guedelha
+    emp_id: "2168078"
+    user_id: "1095176"
+    username: marynah
+    cognizant_email: maryna.herbeda@cognizant.com
+    google_email: marynah@google.com
+    days: 59
+    start_date: 2022-03-14
+    end_date: 2022-03-21
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR T2
+    contract_end: 2022-06-01
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-05-13
+    hire_date: 2022-03-21
+
+  - name: Nataliia Vladimirova
+    role: Agent
+    team: guedelha
+    emp_id: "2245377"
+    user_id: "1224161"
+    username: nataliiav
+    cognizant_email: nataliia.vladimirova@cognizant.com
+    google_email: nataliiav@google.com
+    days: 76
+    start_date: 2022-11-07
+    end_date: 2022-11-14
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-01-18
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-01-06
+    hire_date: 2022-11-07
+
+  - name: Oksana Mykhailivna Vitko
+    role: Agent
+    team: guedelha
+    emp_id: "2242091"
+    user_id: "1218278"
+    username: vitko
+    cognizant_email: oksana.vitko@cognizant.com
+    google_email: vitko@google.com
+    days: 75
+    start_date: 2022-10-24
+    end_date: 2022-10-31
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-01-16
+    active: "Yes"
+    level: SPE
+    promotion_date: 2024-12-23
+    hire_date: 2022-10-24
+
+  - name: Sofiia Bombala
+    role: Agent
+    team: guedelha
+    emp_id: "2245363"
+    user_id: "1224258"
+    username: bombala
+    cognizant_email: sofiia.bombala@cognizant.com
+    google_email: bombala@google.com
+    days: 76
+    start_date: 2022-11-07
+    end_date: 2022-11-14
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-01-18
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-01-06
+    hire_date: 2022-11-07
+
+  - name: Valeriia Chervatiuk
+    role: Agent
+    team: rvigo
+    emp_id: "2306222"
+    user_id: "1331630"
+    username: chervatiuk
+    cognizant_email: valeriia.chervatiuk@cognizant.com
+    google_email: chervatiuk@google.com
+    days: 98
+    start_date: 2023-10-02
+    end_date: 2023-10-09
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-12-08
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-12-01
+    hire_date: 2023-10-02
+
+  - name: Yaroslav Larionov
+    role: Agent
+    team: rvigo
+    emp_id: "2275085"
+    user_id: "1266207"
+    username: yaroslavl
+    cognizant_email: yaroslav.larionov@cognizant.com
+    google_email: yaroslavl@google.com
+    days: 84
+    start_date: 2023-03-20
+    end_date: 2023-03-27
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2023-05-31
+    active: "Yes"
+    level: SPE
+    promotion_date: 2025-05-19
+    hire_date: 2023-03-20
+
+  - name: Yuliya Danylyuk
+    role: Agent
+    team: rvigo
+    emp_id: "2334200"
+    user_id: "1375600"
+    username: danylyuk
+    cognizant_email: yuliya.danylyuk@cognizant.com
+    google_email: danylyuk@google.com
+    days: 108
+    start_date: 2024-02-19
+    end_date: 2024-02-26
+    status: Active
+    skills: HAR/Russian
+    language: Russian
+    team_type: HAR
+    contract_end: 2024-04-15
+    active: "Yes"
+    level: SPE
+    promotion_date: 2026-04-18
+    hire_date: 2024-02-19
