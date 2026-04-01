@@ -1,0 +1,23 @@
+# Quick Setup Checklist ✅
+
+- [ ] Clone/download the repository
+- [ ] Run `npm install`
+- [ ] Run `npm start`
+- [ ] View the app at http://localhost:3000
+- [ ] Explore Dashboard page
+- [ ] Check Team Metrics
+- [ ] Browse Individual Metrics
+- [ ] Click on a team member to see details
+
+## File Locations to Add
+
+1. `public/index.html` - Already created ✅
+2. `src/index.js` - Add provided code
+3. `src/App.js` - Add provided code
+4. `src/pages/` - Add all 4 page files
+5. `src/components/` - Add both component files
+6. `src/data/mockData.js` - Add mock data
+7. `src/styles/` - Add all 7 CSS files
+8. `.gitignore` - Add provided content
+9. `package.json` - Update with new version
+10. `README.md` - Update with full documentation
